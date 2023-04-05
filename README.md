@@ -1,0 +1,1 @@
+![coverage badge](https://raw.githubusercontent.com/yumin-jung/cs350-github-actions/badge/coverage.svg)
